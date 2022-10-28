@@ -4,5 +4,5 @@ ruby 2.5.3 # This is a comment
 nodejs 10.15.0
 python 3.7.2 2.7.15 system
 # And more patterns
-crystal 1.1.0 1.5.1 system # As this...
+crystal 1.6.1 1.5.1 system # As this...
 
