@@ -1,7 +1,7 @@
 # From asdf official doc to test https://github.com/kachick/renovate-config-asdf/pull/290
 ruby 2.5.3 # This is a comment
 # This is another comment
-nodejs 10.15.0
+nodejs 10.24.1
 python 3.7.2 2.7.15 system
 # And more patterns
 crystal 1.6.1 1.5.1 system # As this...
