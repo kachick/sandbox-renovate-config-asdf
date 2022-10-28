@@ -1,0 +1,10 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "github>kachick/renovate-config-asdf#ca04744e3d737f805afe136dfa347aaeb0872a8b",
+    "github>kachick/renovate-config-asdf:self"
+  ],
+  "labels": ["dependencies", "renovate"],
+  "automerge": true,
+  "enabledManagers": ["regex"]
+}
