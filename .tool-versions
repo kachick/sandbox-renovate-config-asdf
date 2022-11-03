@@ -4,7 +4,7 @@ ruby 3.1.2 # This is a comment
 nodejs 19.0.0
 python 3.11.0 2.7.15 system
 # And more patterns
-crystal 1.6.1 1.5.1 system # As this...
+crystal 1.6.2 1.5.1 system # As this...
 
 hugo extended_0.105.0 0.104.3
 gohugo 0.105.0 extended_0.104.3
