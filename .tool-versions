@@ -6,5 +6,5 @@ python 3.11.0 2.7.15 system
 # And more patterns
 crystal 1.6.2 1.5.1 system # As this...
 
-hugo extended_0.107.0 0.104.3
-gohugo 0.107.0 extended_0.104.3
+hugo extended_0.108.0 0.104.3
+gohugo 0.108.0 extended_0.104.3
